@@ -1,0 +1,3 @@
+/Users/annaliseliuko/cs155/cs155_rt_skeleton/code/build/CMakeFiles/rebuild_cache.dir
+/Users/annaliseliuko/cs155/cs155_rt_skeleton/code/build/CMakeFiles/edit_cache.dir
+/Users/annaliseliuko/cs155/cs155_rt_skeleton/code/build/CMakeFiles/raytrace.dir
